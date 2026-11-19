@@ -3,7 +3,7 @@
 
 <div align="center">
 
-`Wuhan - 2026-11-19`
+`Wuhan - 2026-11-20`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
@@ -31,7 +31,7 @@ Waxing Gibbous
 </tr><tr><th>Wind</th>
 </tr></table>
 
-*Updated at: 2026-11-18 16:01 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-11-19 16:07 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -41,7 +41,7 @@ Waxing Gibbous
 
 <div align="center">
 
-`Wuhan - 2026-11-19`
+`Wuhan - 2026-11-20`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
@@ -63,15 +63,15 @@ Waxing Gibbous
 
 <table>
 <tr><th>Date</th>
-<td>2026-11-19</td><td>2026-11-20</td><td>2026-11-21</td></tr><tr><th>Weather</th>
+<td>2026-11-20</td><td>2026-11-21</td><td>2026-11-22</td></tr><tr><th>Weather</th>
 <td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
 <td width="200px">Smoky haze</td><td width="200px">Smoky haze</td><td width="200px">Smoky haze</td></tr><tr><th>Moon Phase</th>
-<td>Waxing Gibbous</td><td>Waxing Gibbous</td><td>Waxing Gibbous</td></tr><tr><th>Moon</th>
-<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
-<td>6.9 - 14.4 °C</td><td>7.9 - 14.4 °C</td><td>8.0 - 16.9 °C</td></tr><tr><th>Wind</th>
-<td>11.9 kph</td><td>8.6 kph</td><td>10.1 kph</td></tr></table>
+<td>Waxing Gibbous</td><td>Waxing Gibbous</td><td>Full Moon</td></tr><tr><th>Moon</th>
+<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
+<td>7.5 - 14.2 °C</td><td>7.9 - 16.8 °C</td><td>9.5 - 15.0 °C</td></tr><tr><th>Wind</th>
+<td>8.3 kph</td><td>10.4 kph</td><td>13.0 kph</td></tr></table>
 
-*Updated at: 2026-11-18 16:01 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-11-19 16:07 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->
