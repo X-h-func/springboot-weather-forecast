@@ -3,7 +3,7 @@
 
 <div align="center">
 
-`Wuhan - 2026-11-24`
+`Wuhan - 2026-11-25`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
@@ -31,7 +31,7 @@ Full Moon
 </tr><tr><th>Wind</th>
 </tr></table>
 
-*Updated at: 2026-11-23 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-11-24 18:25 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- HOURLY-END -->
@@ -41,7 +41,7 @@ Full Moon
 
 <div align="center">
 
-`Wuhan - 2026-11-24`
+`Wuhan - 2026-11-25`
 
 <table style="border-collapse: collapse; width: auto; margin: auto;">
 <tr>
@@ -63,15 +63,15 @@ Full Moon
 
 <table>
 <tr><th>Date</th>
-<td>2026-11-24</td><td>2026-11-25</td><td>2026-11-26</td></tr><tr><th>Weather</th>
-<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
-<td width="200px">Smoky haze</td><td width="200px">Smoky haze</td><td width="200px">Smoky haze</td></tr><tr><th>Moon Phase</th>
-<td>Full Moon</td><td>Full Moon</td><td>Waning Gibbous</td></tr><tr><th>Moon</th>
-<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
-<td>9.0 - 15.5 °C</td><td>7.9 - 15.3 °C</td><td>9.6 - 18.5 °C</td></tr><tr><th>Wind</th>
-<td>14.4 kph</td><td>10.1 kph</td><td>12.6 kph</td></tr></table>
+<td>2026-11-25</td><td>2026-11-26</td><td>2026-11-27</td></tr><tr><th>Weather</th>
+<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/155.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
+<td width="200px">Smoky haze</td><td width="200px">Smoky haze</td><td width="200px">Severe smog</td></tr><tr><th>Moon Phase</th>
+<td>Full Moon</td><td>Waning Gibbous</td><td>Waning Gibbous</td></tr><tr><th>Moon</th>
+<td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Full Moon.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td><td style="padding: 10;"><img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waning Gibbous.png" alt="Moon Phase Icon" style="width:40px; height:40px;"/></td></tr><tr><th>Temperature</th>
+<td>7.6 - 16.2 °C</td><td>10.1 - 18.8 °C</td><td>10.2 - 18.4 °C</td></tr><tr><th>Wind</th>
+<td>10.8 kph</td><td>12.6 kph</td><td>10.8 kph</td></tr></table>
 
-*Updated at: 2026-11-23 18:48 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+*Updated at: 2026-11-24 18:25 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
 <!-- MULTI-DAY-END -->
